@@ -2,21 +2,21 @@
 # mobilemonero-1
 
 ## Project Description
-This project is designed to [describe the main functionality and purpose of the project].
+A mobile application for managing Monero cryptocurrency transactions.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Secure wallet management
+- Real-time transaction monitoring
+- User-friendly interface
 
 ## Technology Stack
-List of technologies used in the project.
+React Native, Monero API
 
 ## Installation
-Instructions on how to install the project.
+Clone the repository and follow the setup instructions for React Native.
 
 ## Usage
-Examples of how to use the project.
+Manage your Monero transactions securely on your mobile device.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
